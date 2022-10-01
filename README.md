@@ -9,3 +9,5 @@ git pull origin master
 
  Trev Out
  
+ok now this came up and this line added in github again but trying to ssee if vs code can grab this cange by istefl
+
